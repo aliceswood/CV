@@ -1,4 +1,6 @@
-## Your Name
+## Alice Wood
+
+Hello and welcome to my little corner of GitHub! This is a work in progress so please bear with me!
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
