@@ -3,7 +3,7 @@
 
 Hey there, welcome to my little corner of GitHub - this is a work in progress CV so please bear with me!
 
-Before diving into the tech world and joining [Makers Academy](https://github.com/makersacademy), I spent my years in HR and Hospitality. My years of customer-facing roles really have ingrained in me the importance of communication, empathy, and adaptability. I am excited to bring these skills with me as I get stuck into my journey as a Software Developer and contribute to projects and companies that really want to make a difference.
+Before diving into the tech world and joining [Makers Academy](https://github.com/makersacademy), my background was in HR and Hospitality. My years of customer-facing roles really have ingrained in me the importance of communication, empathy, and adaptability. I am excited to bring these skills with me as I get stuck into my journey as a Software Developer and contribute to projects and companies that really want to make a difference.
 
 <!-- 
 ## Projects
@@ -49,15 +49,15 @@ _Front Office Placement Student_
 
  
 ## Skills
-- **Adaptability:** There were daily challenges working in HR - these could range from dealing with difficult employee sitations to picking up new systems or procedures. Similarly, the tech world is an ever-evolving field, and being adaptable and willing to learn new technologies and programming languages is essential.
+- **Adaptability:** There were daily challenges working in HR - these could range from dealing with difficult employee sitations to picking up new systems or procedures. Similarly, the tech world is an ever-evolving field, and being adaptable and willing to learn new technologies and programming languages are essential skills.
 
-- **Communication:** I learned how to adapt my style of communication depending on who I was speaking to. This improved my ability for active listening, giving and receiving feedback, and discussing ideas, all of which are key skills for collaboration. 
+- **Communication:** I learned how to adapt my style of communication depending on who I am speaking to. This improved my ability for active listening, giving and receiving feedback, and discussing ideas, all of which are key skills for teamwork and collaboration. 
 
 - **Problem Solving:** A lot of the work within HR is driven by problem solving, for example working with managers to increase team morale or working as a mediator to help resolve conflicts. Often HR projects often need some thinking outside of the box in order to find the solution. So far in my journey as a Software Developer, I have definitely seen the importance of looking at the bigger picture and thinking laterally to solve a challenge.
 
 - **Attention to Detail:** As an HR professional, a key aspect of my role included managing sensitive employee data from performance reviews to sickness absence. Attention to detail is also crucial in software development, where even a small error in code can have significant consequences - which I have very much learned the hard way!
 
-- **Confidentiality:** In my HR roles and in Hospitality, I was responsible for handling sensitive employee information and ensuring its confidentiality. This experience instilled in me a deep understanding of the importance of data privacy and the ability to maintain confidentiality in all aspects of my work. 
+- **Confidentiality:** In my roles in HR and Hospitality, I was responsible for handling sensitive employee information and ensuring its confidentiality. This has instilled in me a deep understanding of the importance of data privacy and the ability to maintain confidentiality in all aspects of my work. 
 
 
 ## Education
