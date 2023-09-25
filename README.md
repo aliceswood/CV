@@ -66,21 +66,22 @@ _Front Office Placement Student_
 
 - A highly selective 16-week intensive software development bootcamp with focus on 'learning how to learn' as well as OOP, TDD, Agile Working Practices, Pair Programming, and Emotional Intelligence.
 
-<!-- - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine -->
+- Learned and developed agile practices such as working in sprints which included the use of daily stand-ups and end of sprint retrospectives. This helped the team work cohesively and effectively and it aided feature delivery. 
 
-#### Oxford Brookes University (start_date to end_date)
+- Developed a Test Driven Development process using Rspec, Jest, and Cypress for end to end testing. This enabled me to produce reliable code in order to fulfil client requests. The TDD process also helped make incremental progress when overcoming challenging tasks and bugs.
+
+- The course is fast paced by nature and this required new languages to be picked up quickly and efficently. On the course we worked in Ruby and Javascript which has shaped my learning post course as I am creating a new project from scratch as I learn Next.js and improve my CSS skills.
+
+- We attended workshops which gave me the opportunity to develop my emotional intelligence further. Topics included giving and receiving feedback, empathy, and how to effectively work in teams of developers.
+
+
+#### Oxford Brookes University (September 2014 - June 2018)
 
 - First Class Honours in International Hospitality Management
 - Modules including: People Management, Financial Decision Making, Global Business Communications, Leaderhsip & Professional Development, and Food, Drink & Culture
 - Obtained WSET Level 1 Award in Wines
 
-#### Avado
+#### Avado (September 2018 - June 2019)
 
 - Chartered Institute of Personnel Development Level 3 Certificate in Human Resources
 
