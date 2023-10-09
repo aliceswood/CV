@@ -4,15 +4,17 @@ Hey there, welcome to my little corner of GitHub!
 
 Before diving into the tech world and joining [Makers Academy](https://github.com/makersacademy), my background was in HR and Hospitality. My years of customer-facing roles really have ingrained in me the importance of communication, empathy, and adaptability. I am excited to bring these skills with me as I get stuck into my journey as a Software Developer and contribute to projects and companies that really want to make a difference.
 
+In HR I experienced many difficult or inefficient systems which inspired my move into tech, to help make other people’s jobs easier, more productive, and if anything, less infuriating! 
+
 After really enjoying the front end side of things on the Makers course, I am currently working on a project to learn Next.js and develop my CSS skills further. I really enjoy the creativity and innovation that front end development can bring to a project and I can't wait to build my skills and kick start my career!
 
 ## Projects
 
 | Name                                    | Description       | Tech/tools        |
 | --------------------------------------- | ----------------- | ----------------- |
-| **Final project - Gig Guru**            | Makers Academy final project built in a team of 5 developers over 2 weeks. A music event ﬁnding app based on a user entered city. Used Google Maps API & Ticketmaster Discovery API. This project really piqued my interest and drive for learning more frontend HTML/CSS. | JavaScript, ReactJS, MongoDB, Cypress, Jest, CSS, HTML |
-| **Group Project - Acebook**             |Trelloship of the string - A Lord of the Rings Facebook clone made in a group of 6 developers across 2 weeks. | JavaScript, Node.js, React, MongoDB, Cypress, Jest, CSS, HTML |
-| **Individual project - Bank**           | A mock solo tech test as part of Makers Academy, a simple bank simulator. | Ruby, RSpec, SimpleCov, Rubocop, irb |
+| [**Final project - Gig Guru**](https://github.com/aliceswood/gig-guru)            | Makers Academy final project built in a team of 5 developers over 2 weeks. A music event ﬁnding app based on a user entered city. Used Google Maps API & Ticketmaster Discovery API. This project really piqued my interest and drive for learning more frontend HTML/CSS. | JavaScript, ReactJS, MongoDB, Cypress, Jest, CSS, HTML |
+| [**Group Project - Acebook**](https://github.com/aliceswood/trelloship-of-the-string)             |Trelloship of the string - A Lord of the Rings Facebook clone made in a group of 6 developers across 2 weeks. | JavaScript, Node.js, React, MongoDB, Cypress, Jest, CSS, HTML |
+| [**Individual project - Bank**](https://github.com/aliceswood/bank-tech-test)           | A mock solo tech test as part of Makers Academy, a simple bank simulator. | Ruby, RSpec, SimpleCov, Rubocop, irb |
 ## Experience
 
 **Makers Academy** (March - June 2023)
@@ -29,32 +31,32 @@ _Student Software Engineer_
 - We attended workshops which gave me the opportunity to develop my emotional intelligence further. Topics included giving and receiving feedback, empathy, and how to effectively work in teams of developers.
 
 
-**Battersea Dogs and Cats Home** (February 2021 to November 2022)  
-_Human Resources Co-ordinator_
+**Human Resources Co-ordinator** (February 2021 to November 2022)  
+_Battersea Dogs and Cats Home_
 
 - Pulling reports and collating information for the monthly payroll process
 - Providing first-line advice and support to staff regarding policies and procedures
 - Training new starters in the team and aiding their learning as part of their induction
 - Aiding with employee relations cases by minute taking during formal meetings
 
-**Reed Talent Solutions** (September 2020 to February 2021)  
-_Senior Talent Resourcing Specialist_
+**Senior Talent Resourcing Specialist** (September 2020 to February 2021)  
+_Reed Talent Solutions_
 
 - Conducting interviews to assess candidates in situ against client defined criteria and competencies 
 - Proof reading training guides and providing feedback and improvements
 - Recording all notes made during the interview to demonstrate and evidence the final recruitment decision
 - Assisting managers in collating information and preparing audit reports
 
-**reed.co.uk** (January 2020 to October 2020)
-_Human Resources Assistant_
+**Human Resources Assistant** (January 2020 to October 2020)
+_reed.co.uk_
 
 - Conducting audits to ensure compliance
 - Aiding HR Advisor with the creation of a group wide Diversity & Inclusion information pack for managers
 - Supporting the team with the organisation and running of Company All-Hands events
 - In regular contact with all levels of the business from new starters to the Senior Leadership Team
 
-**Park Plaza County Hall** (July )
-_Front Office Placement Student_
+**Front Office Placement Student** (July 2015 to June 2016)
+_Park Plaza County Hall_
 
 - Regular receptionist responsibilities of a 4-star hotel.
 - Additionally cross-trained in Reservations, Housekeeping, Finance and Events.
