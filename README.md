@@ -17,8 +17,9 @@ After really enjoying the front end side of things on the Makers course, I am cu
 | [**Individual project - Bank**](https://github.com/aliceswood/bank-tech-test)           | A mock solo tech test as part of Makers Academy, a simple bank simulator. | Ruby, RSpec, SimpleCov, Rubocop, irb |
 ## Experience
 
-**Makers Academy** (March - June 2023)
-_Student Software Engineer_
+**Makers Academy** | 
+_Student Software Engineer_ | 
+(March - June 2023)
 
 - A highly selective 16-week intensive software development bootcamp with focus on 'learning how to learn' as well as OOP, TDD, Agile Working Practices, Pair Programming, and Emotional Intelligence.
 
@@ -31,32 +32,36 @@ _Student Software Engineer_
 - We attended workshops which gave me the opportunity to develop my emotional intelligence further. Topics included giving and receiving feedback, empathy, and how to effectively work in teams of developers.
 
 
-**Human Resources Co-ordinator** (February 2021 to November 2022)  
-_Battersea Dogs and Cats Home_
+**Human Resources Co-ordinator** | 
+_Battersea Dogs and Cats Home_ |
+(February 2021 to November 2022) 
 
 - Pulling reports and collating information for the monthly payroll process
 - Providing first-line advice and support to staff regarding policies and procedures
 - Training new starters in the team and aiding their learning as part of their induction
 - Aiding with employee relations cases by minute taking during formal meetings
 
-**Senior Talent Resourcing Specialist** (September 2020 to February 2021)  
-_Reed Talent Solutions_
+**Senior Talent Resourcing Specialist** |   
+_Reed Talent Solutions_ | 
+(September 2020 to February 2021)
 
 - Conducting interviews to assess candidates in situ against client defined criteria and competencies 
 - Proof reading training guides and providing feedback and improvements
 - Recording all notes made during the interview to demonstrate and evidence the final recruitment decision
 - Assisting managers in collating information and preparing audit reports
 
-**Human Resources Assistant** (January 2020 to October 2020)
-_reed.co.uk_
+**Human Resources Assistant** | 
+_reed.co.uk_ | 
+(January 2020 to October 2020)
 
 - Conducting audits to ensure compliance
 - Aiding HR Advisor with the creation of a group wide Diversity & Inclusion information pack for managers
 - Supporting the team with the organisation and running of Company All-Hands events
 - In regular contact with all levels of the business from new starters to the Senior Leadership Team
 
-**Front Office Placement Student** (July 2015 to June 2016)
-_Park Plaza County Hall_
+**Front Office Placement Student** | 
+_Park Plaza County Hall_ | 
+(July 2015 to June 2016)
 
 - Regular receptionist responsibilities of a 4-star hotel.
 - Additionally cross-trained in Reservations, Housekeeping, Finance and Events.
